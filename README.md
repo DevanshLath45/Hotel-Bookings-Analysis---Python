@@ -17,15 +17,11 @@ This project investigates the **high cancellation rates** observed at both City 
 - **Feature Exploration:** Focused on factors such as lead time, market segment, booking changes, reservation status date and average daily rate (ADR)  
 - **Visualization:** Used graphical techniques to uncover hidden patterns and support findings
 
----
-
 📚 **Libraries:**
 
 - `Pandas` for data handling and analysis  
 - `NumPy` for numerical operations  
 - `Matplotlib` and `Seaborn` for visualization
-
----
 
 📊 **Key Insights Discovered:**
 
@@ -34,8 +30,6 @@ This project investigates the **high cancellation rates** observed at both City 
 - **January** showed the highest number of cancellations  
 - **August** had **highest bookings** also had **lower cancellation rates**  
 - **ADR (pricing)** showed a significant impact on the likelihood of cancellations  
-
----
 
 🎯 **Skills Gained:**
 
